@@ -8,7 +8,7 @@ for JavaScript.
 [![coverage](https://coveralls.io/repos/github/sequeljs/orm/badge.svg?branch=main)](https://coveralls.io/github/sequeljs/orm?branch=main)
 [![license](https://img.shields.io/github/license/sequeljs/orm)](https://github.com/sequeljs/orm/blob/main/LICENSE.md)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/sequeljs/orm/blob/main/CODE_OF_CONDUCT.md)
 
 ## Installation
 
