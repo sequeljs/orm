@@ -46,7 +46,7 @@
     "jest-ts-webcompat-resolver": "^1.0.0",
     "madge": "^4.0.1",
     "rimraf": "^3.0.2",
-    "ts-jest": "^26.5.2",
+    "ts-jest": "^26.5.3",
     "typedoc": "^0.20.30",
     "typedoc-plugin-markdown": "^3.6.0",
     "typedoc-plugin-no-inherit": "^1.2.0",
